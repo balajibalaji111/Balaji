@@ -39,7 +39,7 @@ public class BikeDoa {
 		
 			cr.deleteById(c);
 			
-			return "delete";
+			return "All delete";
 		}
 
 
